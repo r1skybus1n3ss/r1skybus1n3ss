@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... beginner coding
 - 🌱 I’m currently learning ... python
 - 🧠 I’m looking to gain knowledge on ... see previous input ...
-- 📫 How to reach me ... call me beep me, if you wanna reach me don't do either of those things 
+- 📫 How to reach me ... call me beep me, if you wanna reach me don't do either of those things :)
 
 <!---
 r1skybus1n3ss/r1skybus1n3ss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
